@@ -1,5 +1,5 @@
 # Thermometer-Gun
-Design a prototype for Thermometer Gun that used to detect human temperature for detecting COVID-19, with the cooperation with hardware engineer and a mechanical enginee.
+Design a prototype for Thermometer Gun that used to detect human temperature for detecting COVID-19, with the cooperation with hardware engineer and a mechanical engineer.
 
 
 
